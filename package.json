@@ -1,0 +1,13 @@
+{
+  "name": "head-js-block-dom-testing",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "hyper-express": "^6.15.1",
+    "serve-static": "^1.15.0"
+  }
+}
